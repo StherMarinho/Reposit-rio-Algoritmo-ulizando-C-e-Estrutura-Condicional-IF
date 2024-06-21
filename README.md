@@ -1,2 +1,2 @@
 # Tela- Minhas Viagens
-Este repositório apresenta uma tela desenvolvida na disciplina de Trabalho Interdiciplinar de Aplicações Web, em que realizei uma tela de apresentação de Viagens inseridas por um usúario.
+A tela visa exibir todas as viagens registradas pelo usuário dentro do site.
