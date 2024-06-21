@@ -1,2 +1,2 @@
 # Tela- Minhas Viagens
-Este repositório apresenta um algoritmo simples em linguagem C# que demonstra a utilização da estrutura condicional if para tomar decisões e executar diferentes blocos de código.
+Este repositório apresenta uma tela desenvolvida na disciplina de Trabalho Interdiciplinar de Aplicações Web, em que realizei uma tela de apresentação de Viagens inseridas por um usúario.
